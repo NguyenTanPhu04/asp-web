@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\asp-web\\BaiTap05\\BaiTap05.csproj": {}
+    "D:\\asp-web\\BaiTap05\\BaiTap05.csproj": {}
   },
   "projects": {
-    "D:\\github\\asp-web\\BaiTap05\\BaiTap05.csproj": {
+    "D:\\asp-web\\BaiTap05\\BaiTap05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\asp-web\\BaiTap05\\BaiTap05.csproj",
+        "projectUniqueName": "D:\\asp-web\\BaiTap05\\BaiTap05.csproj",
         "projectName": "BaiTap05",
-        "projectPath": "D:\\github\\asp-web\\BaiTap05\\BaiTap05.csproj",
+        "projectPath": "D:\\asp-web\\BaiTap05\\BaiTap05.csproj",
         "packagesPath": "C:\\Users\\TanPhu\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\asp-web\\BaiTap05\\obj\\",
+        "outputPath": "D:\\asp-web\\BaiTap05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TanPhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
