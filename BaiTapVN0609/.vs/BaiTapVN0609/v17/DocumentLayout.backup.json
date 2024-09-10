@@ -42,8 +42,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T07:49:20.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T07:49:20.104Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Views\\Tuan02\\Profile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T07:34:49.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T07:34:49.571Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Views\\Tuan02\\MayTinh.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T07:28:01.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T07:28:01.54Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "Views\\Tuan02\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T06:58:00.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T06:58:00.158Z"
             },
             {
               "$type": "Document",
@@ -90,9 +86,9 @@
               "Title": "Tuan02Controller.cs",
               "DocumentMoniker": "D:\\asp-web\\BaiTapVN0609\\Controllers\\Tuan02Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\Tuan02Controller.cs",
-              "ToolTip": "D:\\asp-web\\BaiTapVN0609\\Controllers\\Tuan02Controller.cs*",
-              "RelativeToolTip": "Controllers\\Tuan02Controller.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAIAAAAAAAAAA==",
+              "ToolTip": "D:\\asp-web\\BaiTapVN0609\\Controllers\\Tuan02Controller.cs",
+              "RelativeToolTip": "Controllers\\Tuan02Controller.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T06:56:06.177Z",
               "EditorCaption": ""
