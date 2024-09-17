@@ -2,6 +2,7 @@
 <div class="container">
     <h3>Xóa </h3>
     <div asp-validation-summary="All" class="text-danger"></div>
+    <input asp-for="Id" type="hidden" />
     <form method="post" asp-action="DeleteConfirm">
         <input type="hidden" asp-for="Id"/>
         <div class="form-group">
