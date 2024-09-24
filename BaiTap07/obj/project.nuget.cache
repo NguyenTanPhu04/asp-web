@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QY+Whkst4ew=",
+  "dgSpecHash": "7bti55EEBCg=",
   "success": true,
   "projectFilePath": "D:\\asp-web\\BaiTap07\\BaiTap07.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,8 @@
     "C:\\Users\\TanPhu\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\TanPhu\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.8\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.8.nupkg.sha512",
     "C:\\Users\\TanPhu\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.8\\microsoft.aspnetcore.identity.ui.8.0.8.nupkg.sha512",
+    "C:\\Users\\TanPhu\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TanPhu\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.8\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.8.nupkg.sha512",
     "C:\\Users\\TanPhu\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\TanPhu\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\TanPhu\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
