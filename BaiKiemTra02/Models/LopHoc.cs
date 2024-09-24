@@ -1,11 +1,15 @@
-﻿namespace BaiKiemTra02.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace BaiKiemTra02.Models
 {
     public class LopHoc
     {
-        public int Id { get; set; }
-        public string TenLopHoc { get; set; }
-        public int NamNhapHoc { get; set; }
-        public int NamRaTruong { get; set; }
-        public int SoLuongSinhVien { get; set; }
+            [Key]
+            public int Id { get; set; }
+            [Required]
+            public string TenLopHoc { get; set; }
+            public DateTime NamNhapHoc { get; set; } = DateTime.Now;
+            public DateTime NamRaTruong { get; set; } = DateTime.Now;
+            public int SoLuongSinhVien { get; set; }
     }
 }
