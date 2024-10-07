@@ -26,6 +26,58 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\asp-web\BaiTap07a
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/asp-web/BaiTap07a/Areas/Admin/View/SanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xTYW5QaGFtXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xTYW5QaGFtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/SanPham/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xTYW5QaGFtXFVwc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/SanPham/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xTYW5QaGFtXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/SanPham/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xTYW5QaGFtXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/TheLoai/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xUaGVMb2FpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/TheLoai/Delete - Copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xUaGVMb2FpXERlbGV0ZSAtIENvcHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/TheLoai/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xUaGVMb2FpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/TheLoai/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xUaGVMb2FpXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/TheLoai/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xUaGVMb2FpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/TheLoai/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xUaGVMb2FpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/TheLoai/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xUaGVMb2FpXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp-web/BaiTap07a/Areas/Admin/View/TheLoai/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld1xUaGVMb2FpXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/asp-web/BaiTap07a/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,26 +100,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/asp-web/BaiTap07a/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/asp-web/BaiTap07a/Views/TheLoai/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/asp-web/BaiTap07a/Views/TheLoai/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/asp-web/BaiTap07a/Views/TheLoai/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxEZXRhaWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/asp-web/BaiTap07a/Views/TheLoai/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/asp-web/BaiTap07a/Views/TheLoai/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/asp-web/BaiTap07a/Views/_ViewImports.cshtml]

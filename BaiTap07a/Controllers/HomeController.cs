@@ -4,6 +4,7 @@ using System.Diagnostics;
 
 namespace BaiTap07a.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

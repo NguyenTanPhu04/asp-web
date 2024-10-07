@@ -11,6 +11,6 @@ namespace BaiTap07a.Data
         {
         }
         public DbSet<TheLoai> TheLoai { get; set; }
-
+        public DbSet<SanPham> SanPhams { get; set; }
     }
 }

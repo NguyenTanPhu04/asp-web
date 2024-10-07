@@ -2,10 +2,12 @@
 using projectA.Models;
 using Microsoft.AspNetCore.Mvc;
 using projectA.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace projectA.Controllers
 {
     [Area("Administrator")]
+    [Authorize(Roles = "Administrator")]
     public class TheLoaiController : Controller
     {
         private readonly ApplicationDbContext _db;

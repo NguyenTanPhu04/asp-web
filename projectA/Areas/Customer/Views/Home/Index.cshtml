@@ -1,8 +1,63 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model IEnumerable<SanPham>
+<div>
+    
+    <!--
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th>Mô tả</th>
+                <th>Giá</th>
+                <th>Hình ảnh</th>
+                <th>Thể loại</th>
+                <th>
+                    Chức năng
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.price</td>
+                    <td><img src="@item.ImageUrl" width="50%" /></td>
+                    <td>@item.TheLoai.Name</td>
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="SanPham" asp-action="Upsert" class="btn btn-primary"> Thêm mới</a>
+    -->
+    <div class="row">
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        @foreach (var item in Model)
+        {
+            
+            <div class="col-3">
+
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="@item.ImageUrl" alt="@item.Name">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <h6 class="card-title">@item.price</h6>
+                        <p class="card-text">@item.Description</p>
+                        <div class="row">
+                            <div class="col-6">
+                                <a href="#" class="btn btn-primary">Thêm &#10084</a>
+                            </div>
+                            <div class="col-6">
+                                <a href="#" class="btn btn-danger">Mua hàng</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </div>
+        }
+    </div>
 </div>
+
